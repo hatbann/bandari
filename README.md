@@ -25,7 +25,7 @@
 
 ### 기술 스택
 
-| JavaScript | TypeScript |  React   |  Redux   | Node   |
+| JavaScript | Html&CSS |  React   |  Redux   | Node   |
 | :--------: | :--------: | :------: | :-----: | :-----: |
 |   ![js]    |   ![htmlCss]    | ![react] | ![redux] | ![nodejs]   |
 
